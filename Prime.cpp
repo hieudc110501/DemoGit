@@ -24,5 +24,6 @@ int main()
 		if(checkPrime(nArray))
 			cout << nArray << " ";
 	}
+	return 0;
 }
 
